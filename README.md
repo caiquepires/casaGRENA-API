@@ -2,3 +2,9 @@
 
 # Casa Grena
 Casa Grena Store
+
+Sprint 01
+Modulo Colaborador x Produto
+  -backend
+  -frontend
+  -crud
